@@ -1,0 +1,10 @@
+*.swo
+*.swp
+*.vscode/
+.env
+.envrc
+.yardoc
+/.DS_Store
+/.cache/
+/.idea
+/doc
